@@ -27,9 +27,14 @@ I am a passionate B.Tech CS student at IIIT Kota, driven by a curiosity for tech
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yug2801&repo=Efficient_learning&theme=vue-dark&hide_border=true)](https://github.com/Yug2801/Efficient_learning)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yug2801&repo=Violence_detection&theme=vue-dark&hide_border=true)](https://github.com/Yug2801/Violence_detection)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yug2801&repo=Portfolio&theme=vue-dark&hide_border=true)](https://github.com/Yug2801/Portfolio)
-
 ## Tech Stack
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,nodejs,express,mysql,postgres,git,github,linux,bootstrap,tailwind)](https://skillicons.dev)
+
+### Machine Learning, AI, and GenAI:
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,docker,pytorch,flask)](https://skillicons.dev)
+
+
 
 ## 🌱 Currently Exploring
 
