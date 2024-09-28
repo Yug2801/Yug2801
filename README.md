@@ -1,9 +1,14 @@
-
 # Hi, I'm Yug! 👋
 
 I am a passionate B.Tech CS student at IIIT Kota, driven by a curiosity for technology and a love for learning. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![Yug2801's Stats](https://github-readme-stats.vercel.app/api?username=Yug2801&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yug2801&layout=compact&theme=vue-dark&hide_border=true)
+
+## 📊 GitHub Commit Graph
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yug2801&theme=vue-dark&hide_border=true)
 
 ## 🚀 About Me
 
@@ -14,9 +19,17 @@ I am a passionate B.Tech CS student at IIIT Kota, driven by a curiosity for tech
 ## My Portfolio
 - [Yug Modi](https://yugmodi.netlify.app/)
 
+## 📂 Featured Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yug2801&repo=Assignment_llm&theme=vue-dark&hide_border=true)](https://github.com/Yug2801/Assignment_llm)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yug2801&repo=CYPH3R_WEB&theme=vue-dark&hide_border=true)](https://github.com/Yug2801/CYPH3R_WEB)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yug2801&repo=Efficient_learning&theme=vue-dark&hide_border=true)](https://github.com/Yug2801/Efficient_learning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yug2801&repo=Violence_detection&theme=vue-dark&hide_border=true)](https://github.com/Yug2801/Violence_detection)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Yug2801&repo=Portfolio&theme=vue-dark&hide_border=true)](https://github.com/Yug2801/Portfolio)
+
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,nodejs,express,mysql,postgres,git,github,linux,bootstrap,tailwind)](https://skillicons.dev)
-
 
 ## 🌱 Currently Exploring
 
@@ -32,7 +45,6 @@ I am a passionate B.Tech CS student at IIIT Kota, driven by a curiosity for tech
   - Working with tools like Pandas and NumPy for data preprocessing and analysis.
   - Experimenting with data visualization tools like Matplotlib and Seaborn to make sense of data.
 
-
 ## 🏆 Achievements
 
 - 🌟 Participated in Hackathons and coding competitions.
@@ -43,4 +55,3 @@ I am a passionate B.Tech CS student at IIIT Kota, driven by a curiosity for tech
 - Connect with me on [Twitter](https://twitter.com/yugmodi9)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
